@@ -19,7 +19,7 @@
 - 不同城市合成台功能验证
 ---
 ### 2. 原神角色配置表检查工具
-**文件**：
+**文件**： 
 - `check_character_data.py` （核心脚本）
 - `check_report.xlsx` （示例输出报告）
 用Python + openpyxl编写的自动化检查工具，用于检查游戏配置表中的数据异常。
@@ -33,11 +33,11 @@
 **运行方式**：将`角色基础属性.xlsx`与脚本放在同一目录，执行 `python config_checker.py`，自动生成`check_report.xlsx`。
 
 ---
-### 3. ## 🔍 发现的Bug：原神按键动画异常
+### 3.  🔍 发现的Bug：原神按键动画异常
 
 在《原神》纪行界面中，点击"任务"按钮时，动画出现抽动闪烁现象（正常应有平滑过渡动画）。
 
-<img src="https://github.com/serge422/serge-GameQA/blob/main/Bug_Demo/click_bug.gif" alt="按键动画异常演示" width="600">
+<img src="https://github.com/serge422/serge-GameQA/blob/main/click_bug.gif?raw=true" alt="按键动画异常演示" width="600">
 
 - **游戏版本**：原神 6.6.0
 - **平台**：PC
