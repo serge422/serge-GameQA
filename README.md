@@ -37,7 +37,7 @@
 
 在《原神》纪行界面中，点击"任务"按钮时，动画出现抽动闪烁现象（正常应有平滑过渡动画）。
 
-<img src="https://github.com/serge422/serge-GameQA/blob/main/Bug_Demo/click_bug.gif?raw=true" alt="按键动画异常演示" width="600">
+<img src="https://github.com/serge422/serge-GameQA/blob/main/Bug_Demo/click_bug.gif" alt="按键动画异常演示" width="600">
 
 - **游戏版本**：原神 6.6.0
 - **平台**：PC
