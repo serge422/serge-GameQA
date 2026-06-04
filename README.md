@@ -15,8 +15,16 @@
 - **用法**：将`角色基础属性.xlsx`和脚本放在同一目录，运行 `python config_checker.py`
 - **输出**：生成 `check_report.xlsx` 报告文件
 
-### 3. 原神版本数值对比工具（待添加）
-- 即将上传：用于对比两个版本角色属性表的差异
+### 3. ## 🔍 发现的Bug演示
+
+在《原神》纪行界面中，点击"任务"按钮时，动画出现抽动闪烁现象（正常应有平滑过渡动画）。
+
+<img src="https://github.com/serge422/serge-GameQA/blob/main/click_bug.gif?raw=true" alt="按键动画异常演示" width="600">
+
+- **游戏版本**：原神 6.6.0
+- **平台**：PC
+- **复现概率**：100%
+- **严重程度**：低（视觉异常，不影响功能）
 
 ## 🛠 使用技术
 - Python（pandas、openpyxl）
