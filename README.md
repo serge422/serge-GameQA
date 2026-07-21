@@ -15,8 +15,28 @@
 - **用法**：将`角色基础属性.xlsx`和脚本放在同一目录，运行 `python config_checker.py`
 - **输出**：生成 `check_report.xlsx` 报告文件
 
-### 3. 原神版本数值对比工具（待添加）
-- 即将上传：用于对比两个版本角色属性表的差异
+### 3. 死亡细胞武器数值版本对比工具
+
+**文件**：`DeathCells_WeaponDiff/weapon_diff.py`
+
+用Python + pandas编写的Excel版本对比工具，用于检查死亡细胞版本更新时武器数值的调整。
+
+**功能**：
+- 自动识别新增、删除、数值变化的武器
+- 支持多字段对比（攻击力、暴击率、冷却时间、DPS等）
+- 输出结构化差异报告（Excel格式，分三个工作表）
+
+**运行方式**：将两个版本Excel放在`DeathCells_WeaponDiff`目录下，执行 `weapon_diff.py`，输出`diff_weapon.xlsx`。
+
+### 4. 游戏Bug发现与反馈
+## 🔍 发现的Bug演示
+
+在《原神》角色界面中，点击"天赋"按钮时，动画出现卡顿和闪烁现象（正常应有平滑过渡动画）。
+- **游戏版本**：原神 6.6.0
+- **平台**：PC
+- **复现概率**：100%
+- **严重程度**：低（视觉异常，不影响功能）
+![按键动画异常演示](https://github.com/serge422/serge-Game/raw/main/click_bug.gif?raw=true)
 
 ## 🛠 使用技术
 - Python（pandas、openpyxl）
