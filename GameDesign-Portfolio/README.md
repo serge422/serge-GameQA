@@ -16,14 +16,14 @@
   - 归纳A/B两类关卡摆放范式与单关三段式节奏
   - 对比《Triple Match 3D》，提出差异化强化建议
   - 输出12条可落地优化建议
-- 📄 [查看完整报告](../01-产品分析报告/GoodsMatch_分析报告.pdf)
+- 📄 [查看完整报告](https://github.com/serge422/serge-GameQA/blob/main/GameDesign-Portfolio/GoodsMatch_%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.docx)
 
 ### 2. 《原神》合成台系统分析
 - 分析维度：系统定位 → 设计目的 → 核心数值规则 → 用户体验 → 优化空间
 - 关键洞察：
   - 解析3:1转化率、2:1属性转换损耗、浓缩树脂上限等数值设计
   - 指出配方引导、快捷合成入口等体验优化点
-- 📄 [查看完整分析](../01-产品分析报告/原神合成台系统分析.pdf)
+- 📄 [查看完整分析](https://github.com/serge422/serge-GameQA/blob/main/GameDesign-Portfolio/%E5%8E%9F%E7%A5%9E%E5%90%88%E6%88%90%E5%8F%B0%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90.docx)
 
 ---
 
