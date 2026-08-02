@@ -1,6 +1,5 @@
 # 🎮 游戏练习作品集
 
-> 👉 查看我的 **[游戏策划方向作品集](./GameDesign-Portfolio/README.md)**
 
 ---
 
@@ -40,7 +39,7 @@
 - **平台**：PC
 - **复现概率**：100%
 - **严重程度**：低（视觉异常，不影响功能）
-![按键动画异常演示](https://github.com/serge422/serge-Game/raw/main/click_bug.gif?raw=true)
+![按键动画异常演示](https://raw.githubusercontent.com/serge422/serge-GameQA/refs/heads/main/assets/click_bug.gif)
 
 ## 🛠 使用技术
 - Python（pandas、openpyxl）
