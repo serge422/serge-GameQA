@@ -39,7 +39,7 @@
 - **平台**：PC
 - **复现概率**：100%
 - **严重程度**：低（视觉异常，不影响功能）
-<img src="https://raw.githubusercontent.com/serge422/sergeliu-games/main/UI_BUG/click_bug.gif" width="480" alt="Bug演示">
+<img src="https://raw.githubusercontent.com/serge422/sergeliu-games/main/UI_BUG/click_bug1.gif" width="480" alt="Bug演示">
 
 ## 🛠 使用技术
 - Python（pandas、openpyxl）
