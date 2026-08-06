@@ -32,12 +32,12 @@
 ### 1. 角色配置表自动检查工具（Python）
 - 策划痛点：人工填写配置表容易出错（ID重复、数值越界、空值等）
 - 我的解决：开发自动校验脚本，输出异常报告，减少人工核对工作量
-- 🎬 演示视频：https://www.bilibili.com/video/BV1Egjc6VESH
+- 🎬 演示视频：https://www.bilibili.com/video/BV1fgjc6GEXa
   
 ### 2. 武器数值版本对比工具（Python）
 - 策划痛点：版本更新时人工对比新旧配置表耗时、易遗漏
 - 我的解决：自动识别新增/删除/数值变化，输出差异报告
-- 🎬 演示视频：https://www.bilibili.com/video/BV1fgjc6GEXa
+- 🎬 演示视频：https://www.bilibili.com/video/BV1Egjc6VESH
 
 ---
 
