@@ -25,6 +25,14 @@
   - 指出配方引导、快捷合成入口等体验优化点
 - 📄 [查看完整分析](https://github.com/serge422/serge-GameQA/blob/main/GameDesign-Portfolio/%E5%8E%9F%E7%A5%9E%E5%90%88%E6%88%90%E5%8F%B0%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90.docx)
 
+### 3. 《追迹迷城》战斗系统拆解报告
+- 拆解维度：项目定位 → 操作手感 → 怪物行为 → 战斗节奏 → 优化建议
+- 关键洞察：
+  - 实测闪避判定宽松（无敌帧延伸至闪避后摇），怪物前摇提示清晰
+  - 精英怪护甲击破“慢放 + 特殊音效”是全场最亮的反馈设计
+  - 输出3条可执行优化建议（触觉反馈、极限闪避反馈、受击反馈）
+- 📄 [查看完整报告](https://github.com/serge422/sergeliu-games/blob/main/GameDesign-Portfolio/%E8%BF%BD%E8%BF%B9%E8%BF%B7%E5%9F%8E%E6%88%98%E6%96%97%E6%8B%86%E8%A7%A3%E6%8A%A5%E5%91%8A.docx)
+
 ---
 
 ## 二、工具能力
